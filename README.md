@@ -1,0 +1,2 @@
+# MobileNotification
+使用Paho MQTT做的一个Android客户端消息发送、消息接收，以及结合Android Notification的例子。可使用ActiveMQ作为服务器。
